@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components'
-import { lighten } from 'polished';
+
 
 const GlobalStyle = createGlobalStyle`
   html,

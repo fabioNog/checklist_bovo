@@ -4,9 +4,10 @@ import GlobalStyle from '../components/globalstyles'
 
 const theme: DefaultTheme = {
   colors: {
-    primary: '#111',
-    secondary: '#0070f3',
+    primary: 'rgb(70, 160, 205)',
+    secondary: '#ff4500',
   },
+  
 }
 
 export default function App({ Component, pageProps }: AppProps) {

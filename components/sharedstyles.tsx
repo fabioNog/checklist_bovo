@@ -8,6 +8,7 @@ const Container = styled.div`
   align-items: center;
   height: 100vh;
   min-height: 100vh;
+  background: #121214;
 `
 const Main = styled.main`
   padding: 5rem 0;
